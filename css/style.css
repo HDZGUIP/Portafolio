@@ -1,6 +1,6 @@
 
 body{
-    background: linear-gradient(#3d0de7,#0e023b);
+    background: linear-gradient(#0e023b,#5327b8);
     color: #ffffff;
     padding: 30px;
 }
@@ -49,9 +49,13 @@ li{
 .menu {
     text-align: center;
     padding: 20px 0;
-    background-color: #000000b7;
+    background-color: #ebdcdc02;
     border-radius: 10px;
     margin: 20px auto;
-    box-shadow: 0 5px 10px #000000;
+    box-shadow: 0 5px 10px #ffffff;
     max-width: 600px;
+    display: flex;
+    justify-content: center;
+    gap: 20PX;
+    align-items: center;
 }
